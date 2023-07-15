@@ -1,0 +1,330 @@
+
+@media (max-width: 1900px){
+  .whoweareSec .weareColum h2{font-size:70px;}
+  .boxblock{padding-right:3%;}
+
+}
+
+@media (max-width: 1650px){
+ 
+
+}
+@media (max-width: 1550px){
+  .addressblock{width:100%;}
+  .footerheding{font-size:16px;}
+}
+
+
+@media (max-width: 1480px){
+  .boxblock{padding-left:2%;padding-right:2%;}
+  .boxblock:first-child{padding-left:7%;}
+  .whoweareSec .weareColum h2 {
+    font-size: 60px;
+}
+
+}
+@media (max-width: 1366px){
+  .mainfooter{padding:0px 3%;}
+  .menu > ul li a, .xs-menu li a{padding:16px 20px;}
+}
+@media (max-width: 1280px){
+.menu ul li a{padding: 16px 15px;}
+.servicesheader h2{font-size:20px;}
+}
+@media (max-width: 1199px){
+  .faqleft {
+    padding: 20px 40px 20px 30px;
+}
+  .servicesCommon{padding:30px 20px
+ }
+  .whoweareSec .weareColum .textblock h3{font-size:24px;}
+  .boxblock{padding:30px 0px;padding-left:2%;padding-right:2%;}
+  .boxblock:first-child {
+    padding-left: 2%;
+}
+.growthTextsec,.containernew {padding-left:2%;}
+.mainfooter {
+  padding: 0px 0%;
+}
+.socialicon a{    max-width: 57px;}
+.main_img .leftthumb{width:90px}
+.menu > ul li a, .xs-menu li a{    padding: 16px 22px;}
+.menu ul li a{padding: 16px 10px;letter-spacing: 1px;}
+.commonfooterblock{padding: 0 10px 0 2%;}
+.listing-leftbar{width:280px;}
+.listing-rightmain{width: calc(100% - 288px);}
+.size-input label{padding:5px 15px; }
+.menu ul li a{font-size:13px;}
+.mainfooter{flex-wrap:wrap;}
+.commonfooterblock:first-child{width:100%;}
+.commonfooterblock{    width: calc(25% - 5px);}
+.SpokeTextblock h4{font-size:30px;}
+.headingOurteam{font-size:30px;}
+.ourTeam{padding-top:30px;}
+.homeTextsection{max-width: 885px;width: 100%;padding:0px 20px;}
+.growthTextsec h2 {
+  color: #000;
+  font-size: 50px;
+}
+.growthTextsec h4{font-size:24px;}
+.ajkheading {
+  font-size: 60px;
+}
+.ajkltextblock h4{font-size:24px;}
+.commonSocailSec .textblock{font-size: 30px;}
+.MainPannelBlock ,.MainPannelBlock{
+  align-items: initial;flex-wrap: wrap;
+}
+}
+
+@media (max-width: 1024px) {
+  .servicesCommon{width:50%;}
+  .homeTextsection h1{font-size:55px;}
+  .spokeSection .slick-prev {
+    left: -29px;
+}
+.spokeSection .slick-next {
+  right: -23px;
+}
+  .innermainContent{margin-top: 88px;}
+  .content-wrapper{padding-top:100px;}
+  header{padding-right:140px;padding-top:10px;}
+  .logo{max-width:160px; margin-left:15px; margin-top:0px;}
+  .menu ul li a{font-size:12px; padding:27px 10px;}
+  .header_bg .menu ul li a{padding:25px 10px;}
+  .logSign-box{padding:15px 50px 15px 0px;}
+  .btn-mobmenu{display:block;    top: 5px;}
+  header.fixed .btn-mobmenu, header.in-view .btn-mobmenu{top: 14px;}
+  .btn-mobmenu:hover{color:#ddd;}
+  .menu{position:fixed; width:240px; height:100vh; background:#0a151c; top:0px; right:0px; padding-top:55px; padding-right:0px; overflow:hidden; overflow-y:auto; transition:400ms; transform:translateX(100%); -webkit-transform:translateX(100%); -ms-transform:translateX(100%);padding-left:0;z-index: 1;}
+  .menu.mobmenushow{transform:translate(0%);-webkit-transform: translateY(0%);-ms-transform: translateY(0%);}
+  .menu ul li{display:block; width:100%; position:relative;}
+  .menu ul li a{display:block; width:100%; color:#fff; border-bottom:1px solid #ddd; padding:10px 15px;}
+  .menu ul li:hover a ~ ul.drpdown{display:none;}
+header.fixed .menu ul li a{color:#fff;}
+}
+
+@media (max-width: 991px) {
+  .FaqInner {
+    display: flex;
+    align-items: end;flex-wrap:wrap;
+}
+.faqleft{width:100%;}
+.faqright{margin:0 auto}
+  .mapmain {
+    padding: 0px;
+}
+  .MainPannelBlock ,.MainPannelBlock{
+    align-items: initial;flex-wrap: wrap-reverse;
+}
+.commonAdressBlock {max-width:100%;}
+
+.MainPannelBlock .lefttextblock ,.MainPannelBlock .righttextblock{
+  padding: 50px 30px 30px 4%;width:100%;
+}
+.MainPannelBlock .rightimageblock,.MainPannelBlock .leftimageblock{width:100%;min-height:auto; padding: 5px 0px;}
+  .SpokeTextblock h4 {
+    font-size: 24px;
+}
+  .ajkheading {
+    font-size: 40px;
+}
+  .container-common{max-width:767px;}
+  .container1440{width:100%;max-width:90%;}
+  .whoweareSec .weareColum h2 {
+    font-size: 43px;}
+    .whoweareSec .weareColum .textblock h3 {
+      font-size: 22px;
+  }
+  .anchortext img{    width: 35px;}
+  .anchortext{font-size:18px;}
+  .SocialSecondSec .commonSocailSec, .SocialthirdSec .commonSocailSec {
+    height: 400px;
+    margin-top: .25rem;
+}
+.SocialfirstSec .commonSocailSec {
+  height: 400px;
+}
+.growthImgSec {
+  width: 45%;
+}
+.growthTextsec {
+  width: 55%;
+}
+.growthTextsec h2{font-size:38px;}
+.growthTextsec h4 {
+  font-size: 20px;
+}
+.SPokeBlock{min-height:460px;}
+}
+
+
+@media (max-width:767px) {
+  .faqleft {
+    padding: 20px 20px 20px 20px;
+}
+.faq .card .card-header .faq-title .badge{margin-right:5px;}
+  .faq .card .card-header .faq-title{font-size:16px;padding-right:30px;}
+  .MainPannelBlock .lefttextblock .width60,.simplecontentSec .width40 {
+    width: 100%;
+}
+.faq .card .card-body{padding: 0px 20px 0px 20px;}
+.commonContent h2{font-size: 20px;
+  line-height: 32px;}
+  .servicesCommon .iconblock img{width:60px;}
+  .servicesCommon {
+    width: 100%;
+}
+  .commonblogSec .contentSec h3{font-size:18px;}
+  .spokeSection .slick-prev:before, .spokeSection .slick-next:before{font-size: 28px;}
+  .spokeSection .slick-next {
+    right:5px}
+  .SpokeTextblock h5{font-size:18px;}
+  .spokeimgSec{width:40%;}
+  .spokeSection .slick-prev {
+    left: -4px;
+}
+
+.growthTextsec h2 {
+  font-size: 30px;
+}
+  .quotessec img {
+    width: 56px;
+}
+.SpokeTextblock h4 {
+  font-size: 20px;
+}
+.quotessec{top:5px}
+  .SPokeBlock {
+    min-height: auto;flex-wrap:wrap;
+}
+.SpokeTextblock{width:100%;}
+  .ourteamMain .slick-dots {
+    bottom: 18px;
+}
+  .SocialfirstSec {
+    width: 100%;
+}
+.ajkheading {
+  font-size: 30px;
+}
+.ajkltextblock h4 {
+  font-size: 18px;
+}
+  .SocialinnerSection,.growthMian{flex-wrap:wrap;}
+  .weareColum{flex-wrap:wrap;}
+  .boxblock:first-child {
+    width: 100%;
+}
+.headingOurteam {
+  font-size: 24px;
+  padding-bottom: 25px;
+}
+.SocialinnerSection,.growthTextsec,.growthImgSec{width:100%;}
+.boxblock {
+  width: 50%;
+}
+.SocialSecondSec, .SocialthirdSec {
+  width: 100%;
+}
+.commonSocailSec .textblock{font-size: 2
+  0px;}
+  .homeTextsection h1 {
+    font-size: 40px;
+}
+  .aboutspke .SPokeBlock {
+    min-height: 291px;
+}
+  .mainfooter {
+    padding: 0px;
+}
+  .commonfooterblock {
+    width: 100%
+}
+  .content-wrapper {padding-top:70px; padding-bottom:20px;}
+  header{min-height:50px;}
+  header.loged{padding-right:250px;}
+  .logo{max-width:120px; margin-left:5px; margin-top:10px;}
+  .logSign-box{padding:10px 15px 7px 0px; padding-right:50px;    top: 5px;}
+  .btn-proname{display:none;}
+  .btn-mobmenu{display:block; top:7px;}
+  .btn-mobmenu:hover{color:#ddd;}
+
+  .commonSocailSec .textblock {
+    opacity: 1;
+    transition: 0.5s all ease;
+    top: 50%;
+    z-index: 9;
+  }
+
+  .commonSocailSec:before {
+    opacity: 1;
+    transition: 0.5s all ease;
+    left: 0;
+}
+.btn.btn-black{
+    margin-bottom:13px;
+}
+.fb-bold{
+    font-size:28px;
+}
+
+.MainPannelBlock .lefttextblock h1{
+   font-size: 40px;
+}
+
+.lefttextblock h2 {
+  font-size: 20px;
+  line-height: 32px;
+}
+ 
+}
+@media (max-width:640px) {
+  .faqright{width:80%;}
+}
+
+@media (max-width:576px) {
+  .boxblock {
+    width: 100%;
+}
+.commonblogSec .contentSec h3{font-size:18px;}
+
+}
+
+@media (max-width:480px) {
+
+  .logo{margin-top:15px;}
+  .logSign-box {  padding-right:35px;}
+  .btn-mobmenu{right:10px;}
+  .btn-usermenu{width:20px; height:20px; margin-top:-5px;}
+  .btn-header{padding:5px 3px; font-size:12px;}
+  header.loged{padding-right:220px;}
+  .homeTextsection h1 {
+    font-size: 34px;
+  }
+  span.fs52.aos-init.aos-animate {
+    font-size: 40px;
+    line-height: 1.5;
+  }
+  span.yellowtextBan.aos-init.aos-animate {
+    font-size: 60px;
+  }
+  span.finally{
+    line-height: 1.5;
+    font-size: 35px;
+  }
+  .homeTextsection h1{
+    width: 100%;
+  }
+}
+
+
+@media (min-width: 576px){
+  .healthind .container{
+      max-width: 4816px !important;
+  }
+  
+  .simplecontentSec .container{
+    max-width: 4816px !important;
+  }
+} 
